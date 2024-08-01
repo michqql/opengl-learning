@@ -1,0 +1,3 @@
+C:/Users/mjpea/CLionProjects/2dGame/cmake-build-debug/CMakeFiles/2dGame.dir
+C:/Users/mjpea/CLionProjects/2dGame/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mjpea/CLionProjects/2dGame/cmake-build-debug/CMakeFiles/rebuild_cache.dir
